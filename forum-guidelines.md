@@ -31,7 +31,7 @@ WordPress.org でホストされているテーマやプラグインの開発者
 
 ### 支援を得るのためにお金を払うと申し出ないでください
 
-サービスに対する支払いやフォーラムでの金銭的な支援を申し出ないでください。これには jobs.wordpress.net を使用してください。
+フォーラムでのサービスや支援の見返りに支払いを申し出ないでください。これには jobs.wordpress.net を使用してください。
 
 
 ### Do not post about commercial products
