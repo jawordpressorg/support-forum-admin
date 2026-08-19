@@ -129,6 +129,8 @@ WordPress.org のサポートフォーラムはそれ自体が WordPress を基�
 
 投稿の削除と同様に、アカウントの削除にも応じることはできません。
 
+なお、プライバシー保護の理由からアカウント削除を必要としている場合は WordPress.org のプライバシーチームに削除を要請することが可能です。詳しくはフォーラム FAQ の ["Can you delete my account?"](https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account) を参照してください。
+
 
 ## 情報源
 
